@@ -1,0 +1,6 @@
+// alignment
+@mixin flex-align($alignment) {
+    display: flex;
+    align-items: $alignment;
+}
+
